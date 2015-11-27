@@ -4,7 +4,7 @@
   "description": "retra-emitter",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
